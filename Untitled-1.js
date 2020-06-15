@@ -6,7 +6,7 @@ switch (typeCard) {
         break;
     case "credit card":
         console.log("tarjeta de credito");
-        breaks;
+        break;
     default:
         console.log ("No se reconoce tarjeta");    
 
